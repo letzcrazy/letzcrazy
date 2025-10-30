@@ -29,9 +29,5 @@ I build high-performance web platforms, scalable backend services, and secure bl
 ### 🌱 Currently Focused On
 - Web3 system architecture & smart contract scaling  
 - Cloud-native application performance  
-- Modern front-end experiences with React/Next.js  
-
----
-
-> _"Code with purpose. Build with quality."_
+- Modern front-end experiences with React/Next.js 
 
