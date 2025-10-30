@@ -1,16 +1,37 @@
-## Hi there 👋
+## 👋 Hi, I'm **Eugene Labonarsky**
 
-<!--
-**letzcrazy/letzcrazy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-Stack Software Engineer | Web3 Developer | Cloud-Ready Architect**
 
-Here are some ideas to get you started:
+I build high-performance web platforms, scalable backend services, and secure blockchain applications. Passionate about clean architecture, real-world product delivery, and modern tech.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 Tech Expertise
+
+**Frontend:** React • Next.js • AngularJS • TypeScript  
+**Backend:** Python • Django • C++  
+**Database:** MySQL • MongoDB  
+**Web3:** Solidity • Smart Contracts • dApps  
+**Cloud & Tools:** AWS • Git • CI/CD • Figma
+
+---
+
+### 💼 What I Do
+
+- Full-stack app development  
+- API & backend architecture  
+- Web3 smart contract engineering  
+- Cloud-based deployment & DevOps  
+- UI/UX implementation from Figma  
+
+---
+
+### 🌱 Currently Focused On
+- Web3 system architecture & smart contract scaling  
+- Cloud-native application performance  
+- Modern front-end experiences with React/Next.js  
+
+---
+
+> _"Code with purpose. Build with quality."_
+
